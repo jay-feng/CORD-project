@@ -53,3 +53,24 @@ To extract the most important sentences from the documents in the medical care t
 
 ### Conclusion
 While I ended up extracting the “most important” sentences in the relevant documents, this was more of a proof of concept and a means to complete the task described in the Kaggle challenge. However, the results of the clustering/topic assignments could easily be adapted for more practical purposes, such as searching for papers with a desired topic or summarizing the papers in a certain topic to quickly identify which of the tens of thousands of papers are worth looking at in more detail.
+
+### References
+Abdullatif, H. (2020, January 28). Dimensionality Reduction For Dummies - Part 1: Intuition. Retrieved from https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79
+
+Abdullatif, H. (2020, March 24). You Don't Know SVD (Singular Value Decomposition). Retrieved from https://towardsdatascience.com/svd-8c2f72e264f
+
+B., J. (2018, August 14). Clustering documents with TFIDF and KMeans. Retrieved from https://www.kaggle.com/jbencina/clustering-documents-with-tfidf-and-kmeans
+Chen, E. (n.d.). Introduction to Latent Dirichlet Allocation. Retrieved from https://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/
+
+Derksen, L. (2019, April 29). Visualising high-dimensional datasets using PCA and t-SNE in Python. Retrieved from https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b
+
+Galarnyk, M. (2020, May 1). PCA using Python (scikit-learn). Retrieved from https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+
+Li, S. (2018, June 1). Topic Modeling and Latent Dirichlet Allocation (LDA) in Python. Retrieved from https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+
+Maklin, C. (2019, July 21). TF IDF: TFIDF Python Example. Retrieved from https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76
+
+Scott, W. (2019, May 21). TF-IDF for Document Ranking from scratch in python on real world dataset. Retrieved from https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
+
+Soma, J. (n.d.). Counting and stemming. Retrieved from http://jonathansoma.com/lede/algorithms-2017/classes/more-text-analysis/counting-and-stemming/
+
