@@ -1,3 +1,4 @@
 document_clusters.csv
 full_texts.csv
 .DS_Store
+.ipynb_checkpoints
